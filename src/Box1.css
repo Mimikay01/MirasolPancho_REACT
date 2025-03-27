@@ -1,0 +1,10 @@
+.Box1{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: aqua;
+    padding: 60px;
+}
+
+.Box1 p{
+    color: black;
+}

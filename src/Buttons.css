@@ -1,0 +1,11 @@
+.Buttons{
+    padding: 10px;
+    display: flex;
+    gap: 8px;
+}
+
+.Buttons button{
+    border: 1px solid black;
+    background-color: red;
+    border-radius: 5px;
+}
